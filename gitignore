@@ -1,37 +1,29 @@
-
 # Python cache
-
-**pycache**/
+__pycache__/
 *.py[cod]
 *$py.class
 
 # Virtual environment
-
 venv/
 .venv/
 env/
 
 # Environment variables
-
 .env
 
 # VS Code settings (opsional)
-
 .vscode/
 
 # Temporary files
-
 *.tmp
 *.temp
 *.log
 
-# Temporary Microsoft Office files
-
+# Temporary Word files
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
 
 # Operating system files
-
 .DS_Store
 Thumbs.db
